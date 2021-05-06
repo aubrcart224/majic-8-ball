@@ -27,8 +27,9 @@ namespace majic_8_ball
             //variaboles 
             int number;
             number = randGen.Next(1, 7);
-            // if statements 
-            //string number = 
+
+            // if statement (switch)
+            
             switch (number)
             {
                 case 1:
